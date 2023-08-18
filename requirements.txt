@@ -1,0 +1,6 @@
+gluonnlp pandas tqdm   
+mxnet
+sentencepiece==0.1.91
+transformers==4.8.2
+ipywidgets
+[-e] git+https://git@github.com/SKTBrain/KoBERT.git@master
